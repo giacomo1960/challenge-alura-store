@@ -74,12 +74,10 @@ CUADRO N° 4. TICKET PROMEDIO VENTAS
 ## Conclusiones
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+
 
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
 
