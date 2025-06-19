@@ -37,7 +37,9 @@ El resultado de ventas totales se obtiene  por cada tienda sumando los valores d
 
 **GRAFICO N° 1 VENTAS TOTALES.pdf**
 
-[GRAFICO N° 1 VENTAS TOTALES.pdf](https://github.com/user-attachments/files/20808234/GRAFICO.N.1.VENTAS.TOTALES.pdf)
+[GRAFICO N° 1 VENTAS TOTALES.pdf]
+
+(https://github.com/user-attachments/files/20808234/GRAFICO.N.1.VENTAS.TOTALES.pdf)
 
 
 
@@ -83,8 +85,9 @@ VENTAS ACUMULADAS POR TRIMESTRE (miles)
 | 2022 2022T4 | 1047620                          | 1029910                          | 1035100                          | 980893                           |
 | 2023 2023T1 | 1150880
 
-C:\Users\giaco\Documents\GitHub\challenge1-data-science-latam\challenge-alura-store\GRAFICO N°  VENTAS ACUMULADAS.pdf
-**Tienda 1** 
+[GRAFICO N°  VENTAS ACUMULADAS.pdf](https://github.com/user-attachments/files/20808309/GRAFICO.N.VENTAS.ACUMULADAS.pdf)
+
+Tienda 1** 
 
 **Ventas Totales:** Muestra el patrón más volátil de todas las tiendas. Inició con ventas excepcionales de $104.7 millones en 2020T1, manteniéndose por encima de $96 millones en los dos trimestres siguientes. Sin embargo, experimentó una caída significativa en 2020T4 ($69.2 millones), seguida de una recuperación gradual en 2021. El punto más alto se alcanzó en 2021T3 con $116.3 millones, marcando el mejor trimestre de todas las tiendas en el período analizado. Posteriormente, las ventas se estabilizaron entre $72-79 millones durante 2022, antes de cerrar fuerte en 2023T1 con $103.3 millones.
 
@@ -142,7 +145,8 @@ Las ventas por categoría se obtienen  por cada tienda sumando la cantidad de pr
 |Libros|173|197|185|187|742|7\.86|
 |Artículos para el hogar|171|181|177|201|730|7\.74|
 
-C:\Users\giaco\Documents\GitHub\challenge1-data-science-latam\challenge-alura-store\GRAFICO N° 2 VENTAS POR CATEGORIA.pdf
+[GRAFICO N° 2 VENTAS POR CATEGORIA.pdf](https://github.com/user-attachments/files/20808315/GRAFICO.N.2.VENTAS.POR.CATEGORIA.pdf)
+
 
 **3.1.1. Muebles**
 
@@ -263,7 +267,8 @@ Si bien es cierto que estas preferencias de los clientes se deben complementar c
 | Libros                   | 50,810                | 50,780 (-0.1%)   | 51,224 (+0.8%)   | 51,344 (+1.1%)   | 49,847 (-1.9%)   |
 
 
-C:\Users\giaco\Documents\GitHub\challenge1-data-science-latam\challenge-alura-store\GRAFICO N° 5 TOTAL VENTAS ~ TICKET PROMEDIO.pdf
+[GRAFICO N° 5 TOTAL VENTAS ~ TICKET PROMEDIO.pdf](https://github.com/user-attachments/files/20808324/GRAFICO.N.5.TOTAL.VENTAS.TICKET.PROMEDIO.pdf)
+
 
 A continuación  se hace un análisis comparativo del Ticket Ponderado  y ventas totales:
 
@@ -362,7 +367,9 @@ Esta homogeneidad sugiere un mercado maduro con márgenes limitados y estrategia
 | **Total general**          | **3.98**       | **1,150,880,400** | **4.04**     | **$1,116,343,500** | **4.05**     | **$1,098,019,600** | **4.00**     | **$1,038,375,700** | **4.01**             | **$4,403,619,200**    |
 
 
-C:\Users\giaco\Documents\GitHub\challenge1-data-science-latam\challenge-alura-store\GRAFICO N°  TOTAL VENTAS ~  CALIFICACION PROMEDIO.pdf
+
+[GRAFICO N°  TOTAL VENTAS ~  CALIFICACION PROMEDIO.pdf](https://github.com/user-attachments/files/20808331/GRAFICO.N.TOTAL.VENTAS.CALIFICACION.PROMEDIO.pdf)
+
 
 **4.1. Electrónicos**
 
@@ -461,10 +468,6 @@ Tienda 2 lidera en ventas con $10.091.200, superando a Tienda 1, que tiene las v
 
 
 
-
-
-
-
 ## Conclusiones
 # Resumen Ejecutivo: Análisis de Rendimiento de Tiendas
 
@@ -531,7 +534,8 @@ La venta de Tienda 4 representa la decisión más lógica para maximizar la rent
 ## Tecnologías Utilizadas
 
 •	Python 3
-•	Google Colab 
+•	Google Colab
+•	Jupiter Notebook
 •	VS Code  
 •	Pandas 
 •	Matplotlib 
@@ -548,9 +552,7 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-## Uso
 
-## Tech Stack
 
 
 
