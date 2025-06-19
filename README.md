@@ -34,16 +34,22 @@ El resultado de ventas totales se obtiene  por cada tienda sumando los valores d
 |Tienda 3 |     1,098,019,600       |
 |Tienda 4 |     1,038,375,700       |
 
+
 **GRAFICO N° 1 VENTAS TOTALES.pdf**
+[GRAFICO N° 1 VENTAS TOTALES.pdf](https://github.com/user-attachments/files/20808234/GRAFICO.N.1.VENTAS.TOTALES.pdf)
+
+
 
 Las ventas son lideradas por la Tienda 1  con el 26,13%, donde la de mas bajo rendimiento es Tienda 4 con 23.58%. La diferencia notable entre la tienda 1 y 4 se representa el 10.83% de menor rendimiento ( $112.504.700).
 
-TIENDASC:\Users\giaco\Documents\GitHub\challenge1-data-science-latam\challenge-alura-store\GRAFICO N° 1 VENTAS TOTALES.pdf
+
 
 A continuación se presentan ciertos comportamientos que tienden a explicar de mejor manera las ventas entre las tiendas y sus resultados.
 
 VENTAS TOTALES TRIMESTRALES POR TIENDA (miles)
-| Periodo     | Tienda 1 | Tienda 2 | Tienda 3 | Tienda 4 |
+| Periodo     |[GRAFICO N°  VEN[GRAFICO N°  VENTAS ACUMULADAS.pdf](https://github.com/user-attachments/files/20808251/GRAFICO.N.VENTAS.ACUMULADAS.pdf)
+TAS ACUMULADAS.pdf](https://github.com/user-attachments/files/20808249/GRAFICO.N.VENTAS.ACUMULADAS.pdf)
+ Tienda 1 | Tienda 2 | Tienda 3 | Tienda 4 |
 |-------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | 2020 2020T1 | 104701                      | 79034                       | 81384                       | 70712                       |
 | 2020 2020T2 | 98546                       | 79165                       | 78932                       | 98337                       |
