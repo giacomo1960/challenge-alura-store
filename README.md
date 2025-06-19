@@ -36,6 +36,7 @@ El resultado de ventas totales se obtiene  por cada tienda sumando los valores d
 
 
 **GRAFICO N° 1 VENTAS TOTALES.pdf**
+
 [GRAFICO N° 1 VENTAS TOTALES.pdf](https://github.com/user-attachments/files/20808234/GRAFICO.N.1.VENTAS.TOTALES.pdf)
 
 
@@ -47,8 +48,7 @@ Las ventas son lideradas por la Tienda 1  con el 26,13%, donde la de mas bajo re
 A continuación se presentan ciertos comportamientos que tienden a explicar de mejor manera las ventas entre las tiendas y sus resultados.
 
 VENTAS TOTALES TRIMESTRALES POR TIENDA (miles)
-| Periodo     |[GRAFICO N°  VEN[GRAFICO N°  VENTAS ACUMULADAS.pdf](https://github.com/user-attachments/files/20808251/GRAFICO.N.VENTAS.ACUMULADAS.pdf)
-TAS ACUMULADAS.pdf](https://github.com/user-attachments/files/20808249/GRAFICO.N.VENTAS.ACUMULADAS.pdf)
+| Periodo     |
  Tienda 1 | Tienda 2 | Tienda 3 | Tienda 4 |
 |-------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | 2020 2020T1 | 104701                      | 79034                       | 81384                       | 70712                       |
